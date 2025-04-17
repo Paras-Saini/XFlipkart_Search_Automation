@@ -1,8 +1,5 @@
-                    FlipKart Search Automation
-
-This project automates the testing of Flipkart's search functionality using Java, Selenium WebDriver, and TestNG.
-
-I implement custom Selenium wrapper methods for interacting with web elements and validating different search and filter scenarios.
+# XFlipkart_Search_Automation
+Automated testing of Flipkart's search and filter functionality using Java, Selenium WebDriver, and TestNG. Includes custom wrapper methods and multiple end-to-end test cases covering search, sort, filter, and data validation scenarios.
 
 Test Cases
 
@@ -22,7 +19,7 @@ Test Cases
        3. Print the Title and Image URL of the top 5 items with the highest number of reviews.
 
 How to Run
-1.Clone the repository.
-2.Open in your IDE (IntelliJ/Eclipse/VSCode).
-3.Make sure all dependencies (Selenium, TestNG) are installed.
-4.Run the TestCases.java as a TestNG test suite.
+    1.Clone the repository.
+    2.Open in your IDE (IntelliJ/Eclipse/VSCode).
+    3.Make sure all dependencies (Selenium, TestNG) are installed.
+    4.Run the TestCases.java as a TestNG test suite.
